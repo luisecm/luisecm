@@ -14,17 +14,13 @@ I'm a passionate QA Engineer | SDET | Web3 enthusiast.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions)
 
 ### 🚀 Projects
-- [QA Automation for Web3 DApp](https://github.com/luisecm/web3-dapp-tests)  
+- [QA Automation for Web3 DApp](https://github.com/luisecm/web3-communities)  
 Automated test suite covering smart contract interactions using Playwright.
 
 - [Pixieset Downloader](https://github.com/luisecm/download-pixieset)  
 Script to download protected images from Pixieset
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luisecm&show_icons=true&theme=radical)
-
-### 🚀 LinkedIn
-
-![Here](https://www.linkedin.com/in/luiscardenamaldonado/)
 
 
 
