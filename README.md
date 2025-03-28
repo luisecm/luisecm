@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Luis Cardeña]
+### Hi there 👋 I'm Luis Cardeña
 
 I'm a passionate QA Engineer | SDET | Web3 enthusiast.
 
