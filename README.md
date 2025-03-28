@@ -5,7 +5,6 @@ I'm a passionate QA Engineer | SDET | Web3 enthusiast.
 - 🔭 I’m currently working on: a Web3 talent platform
 - 🌱 I’m learning: Solidity, Hardhat, and advanced Playwright features
 - 👯 I’m open to collaborate on: Open-source testing projects
-- 🧪 Fun Fact: I once wrote a test that caught a million-dollar bug 🐞
 
 ### ⚒️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
