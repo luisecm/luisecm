@@ -7,16 +7,16 @@
 ---
 
 ### 🚀 What I'm Working On
-- 🧪 Building scalable E2E frameworks for **B2B retail** platforms
-- 💬 Contributing to an **open-source Web3 messaging and communities platform**
-- 🤖 Experimenting with **AI tools** and **Go** for next-gen QA workflows
+- Building scalable E2E frameworks for **B2B retail** platforms
+- Contributing to an **open-source Web3 messaging and communities platform**
+- Experimenting with **AI tools** and **Go** for next-gen QA workflows
 
 ---
 
 ### 📚 What I'm Learning
-- 🤯 Deep-diving into **TensorFlow**, **AI-assisted testing**, and **advanced Playwright features**
-- 🧱 Exploring **blockchain testing** and **smart contract validation**
-- 🧬 Getting hands-on with **GoLang** and API fuzzing tools
+- Deep-diving into **TensorFlow**, **AI-assisted testing**, and **advanced Playwright features**
+- Exploring **blockchain testing** and **smart contract validation**
+- Getting hands-on with **GoLang** and API fuzzing tools
 
 ---
 
@@ -58,7 +58,7 @@
 ---
 
 ### 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-carde%C3%B1a/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/luis-carde%C3%B1a](https://www.linkedin.com/in/luiscardenamaldonado/)  
 - 📫 [Email](mailto:luis.cardena@outlook.com)  
 - 🌎 Based in **Mexico**, open to **remote roles ** with **worldwide companies**
 
