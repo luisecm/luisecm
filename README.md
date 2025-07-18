@@ -40,37 +40,44 @@
 
 ---
 
-### 🚀 Projects & Contributions
+## 🛰️ Featured Open Source Contributions – [Satellite.im](https://github.com/Satellite-im)
+> Web3 Instant Messaging Platform. Contributed across test architecture, automation strategy, and mobile/web quality workflows.
 
-🛰️ Satellite.im – Web3 Instant Messaging Platform
+- [`automated-tests-web`](https://github.com/Satellite-im/automated-tests-web)  
+  🧪 **Playwright-based** E2E automation suite for Uplink Web  
+  🛠️ Runs on CI via GitHub Actions, includes multi-wallet support and smart contract testing
 
-Contributing to open-source QA automation and product development across Web, PWA, and Mobile.
+- [`UplinkWeb`](https://github.com/Satellite-im/UplinkWeb)  
+  💬 Frontend for the decentralized messenger  
+  👨‍🔧 Reviewed flows, validated bugs, assisted QA onboarding
 
- ![Automated-tests-web](https://img.shields.io/github/stars/Satellite-im/automated-tests-web?style=social)
-🧪 Advanced Playwright test suite for E2E testing of the Uplink Web platform.
-🔧 Includes CI via GitHub Actions, test isolation, and multi-wallet connection tests.
-	•	UplinkWeb
-💬 Frontend interface for the decentralized messaging DApp.
-👨‍🔧 Contributed to testing setup, UX flows, and bug validation in production.
-	•	testing-uplink
-🧰 Exploratory testing and QA scripts for browser and WebRTC features of the Uplink app.
-	•	Core-PWA
-⚙️ Core logic powering the Satellite Progressive Web App.
-🧪 Reviewed automation coverage and implemented regression test suites.
-	•	Uplink-Mobile
-📱 Mobile version of the Web3 messenger.
-🚀 Worked on automation strategies for cross-platform E2E flows.
-	•	cypress
-🧪 Specialized Cypress tests for specific use-cases, including auth and messaging.
-🧬 Modular structure for maintainable smoke/regression testing.
+- [`testing-uplink`](https://github.com/Satellite-im/testing-uplink)  
+  🧰 QA scripts and exploratory test cases  
+  🔍 Covered browser matrix, audio/video flows, WebRTC, and connection edge cases
 
-⸻
+- [`Core-PWA`](https://github.com/Satellite-im/Core-PWA)  
+  ⚙️ Core Progressive Web App logic  
+  🧪 Helped extend Playwright coverage and performance tests
 
-🧪 Personal Projects
-	•	alieninvasion
+- [`Uplink-Mobile`](https://github.com/Satellite-im/Uplink-Mobile)  
+  📱 React Native app for cross-platform communication  
+  🚀 Researched mobile automation strategy and test tooling
 
+- [`cypress`](https://github.com/Satellite-im/cypress)  
+  🔬 Cypress-based tests focused on regression and auth flows  
+  💡 Built reusable component selectors for cleaner tests
 
+---
 
+### 👾 Personal Projects
+
+- [`alieninvasion`](https://github.com/luisecm/alieninvasion)  
+  🕹️ A **Python Pygame** arcade shooter.  
+  🚀 Practice project on game loops, sprite handling, and keyboard events.
+
+- [`character-generator`](https://github.com/luisecm/character-generator)  
+  🧙 Fantasy character generator built with **Python OOP**.  
+  🎲 Generates randomized characters for RPG-style storytelling.
 
 - [`web3-communities`](https://github.com/luisecm/web3-communities)  
   🧪 Full-featured **Playwright** test suite for a decentralized messaging DApp  
