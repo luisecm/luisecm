@@ -46,7 +46,7 @@
 
 Contributing to open-source QA automation and product development across Web, PWA, and Mobile.
 
-	•	automated-tests-web ![Repo stars](https://img.shields.io/github/stars/Satellite-im/automated-tests-web?style=social)
+ ![Automated-tests-web](https://img.shields.io/github/stars/Satellite-im/automated-tests-web?style=social)
 🧪 Advanced Playwright test suite for E2E testing of the Uplink Web platform.
 🔧 Includes CI via GitHub Actions, test isolation, and multi-wallet connection tests.
 	•	UplinkWeb
