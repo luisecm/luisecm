@@ -52,7 +52,7 @@
   👨‍🔧 Reviewed flows, validated bugs, collaborated adding and improving features
 
 - [`testing-uplink`](https://github.com/Satellite-im/testing-uplink)  
-  🧰 Created automated tests that can run for MacOS and Windows Desktop app
+  🧰 Created automated tests that can run for MacOS and Windows Desktop app   
   🔍 Covered chat, friend requesting and conversation end to end tests
 
 - [`Core-PWA`](https://github.com/Satellite-im/Core-PWA)  
