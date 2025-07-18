@@ -56,15 +56,15 @@
   🔍 Covered chat, friend requesting and conversation end to end tests
 
 - [`Core-PWA`](https://github.com/Satellite-im/Core-PWA)  
-  ⚙️ Collaborated on small features for web application 
+  ⚙️ Collaborated on small features for web application   
   🧪 Helped extend Cypress coverage tests
 
 - [`Uplink-Mobile`](https://github.com/Satellite-im/Uplink-Mobile)  
-  📱 Flutter Native app for cross-platform communication  
+  📱 Flutter Native app for cross-platform communication   
   🚀 Researched mobile automation strategy and implemented basic E2E tests with Appium
 
 - [`cypress`](https://github.com/Satellite-im/cypress)  
-  🔬 Cypress-based tests focused on regression and auth flows for CorePWA app
+  🔬 Cypress-based tests focused on regression and auth flows for CorePWA app    
   💡 Built extended coverage of end to end tests
   
 ---
