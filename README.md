@@ -96,7 +96,7 @@
 ---
 
 ### 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-carde%C3%B1a](https://www.linkedin.com/in/luiscardenamaldonado/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiscardenamaldonado/)  
 - 📫 [Email](mailto:luis.cardena@outlook.com)  
 - 🌎 Based in **Mexico**, open to **remote roles ** with **worldwide companies**
 
