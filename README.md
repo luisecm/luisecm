@@ -40,7 +40,38 @@
 
 ---
 
-### 🌐 Projects
+### 🚀 Projects & Contributions
+
+🛰️ Satellite.im – Web3 Instant Messaging Platform
+
+Contributing to open-source QA automation and product development across Web, PWA, and Mobile.
+
+	•	automated-tests-web ![Repo stars](https://img.shields.io/github/stars/Satellite-im/automated-tests-web?style=social)
+🧪 Advanced Playwright test suite for E2E testing of the Uplink Web platform.
+🔧 Includes CI via GitHub Actions, test isolation, and multi-wallet connection tests.
+	•	UplinkWeb
+💬 Frontend interface for the decentralized messaging DApp.
+👨‍🔧 Contributed to testing setup, UX flows, and bug validation in production.
+	•	testing-uplink
+🧰 Exploratory testing and QA scripts for browser and WebRTC features of the Uplink app.
+	•	Core-PWA
+⚙️ Core logic powering the Satellite Progressive Web App.
+🧪 Reviewed automation coverage and implemented regression test suites.
+	•	Uplink-Mobile
+📱 Mobile version of the Web3 messenger.
+🚀 Worked on automation strategies for cross-platform E2E flows.
+	•	cypress
+🧪 Specialized Cypress tests for specific use-cases, including auth and messaging.
+🧬 Modular structure for maintainable smoke/regression testing.
+
+⸻
+
+🧪 Personal Projects
+	•	alieninvasion
+
+
+
+
 - [`web3-communities`](https://github.com/luisecm/web3-communities)  
   🧪 Full-featured **Playwright** test suite for a decentralized messaging DApp  
   🔗 Tests smart contract interactions on the **Sepolia Testnet**
