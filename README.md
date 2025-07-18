@@ -84,7 +84,7 @@
   🔗 POC for testing smart contract interactions on the **Sepolia Testnet**
 
 - [`download-pixieset`](https://github.com/luisecm/download-pixieset)  
-  📷 Script to download protected Pixieset photo galleries
+  📷 Script to download protected Pixieset photo galleries          
   🚀 Automated media scraping with Puppeteer
 
 ---
