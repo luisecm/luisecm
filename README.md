@@ -45,28 +45,28 @@
 
 - [`automated-tests-web`](https://github.com/Satellite-im/automated-tests-web)  
   🧪 **Playwright-based** E2E automation suite for Uplink Web  
-  🛠️ Runs on CI via GitHub Actions, includes multi-wallet support and smart contract testing
+  🛠️ Runs on CI via GitHub Actions, includes video call and screen share testing
 
 - [`UplinkWeb`](https://github.com/Satellite-im/UplinkWeb)  
   💬 Frontend for the decentralized messenger  
-  👨‍🔧 Reviewed flows, validated bugs, assisted QA onboarding
+  👨‍🔧 Reviewed flows, validated bugs, collaborated adding and improving features
 
 - [`testing-uplink`](https://github.com/Satellite-im/testing-uplink)  
-  🧰 QA scripts and exploratory test cases  
-  🔍 Covered browser matrix, audio/video flows, WebRTC, and connection edge cases
+  🧰 Created automated tests that can run for MacOS and Windows Desktop app
+  🔍 Covered chat, friend requesting and conversation end to end tests
 
 - [`Core-PWA`](https://github.com/Satellite-im/Core-PWA)  
-  ⚙️ Core Progressive Web App logic  
-  🧪 Helped extend Playwright coverage and performance tests
+  ⚙️ Collaborated on small features for web application 
+  🧪 Helped extend Cypress coverage tests
 
 - [`Uplink-Mobile`](https://github.com/Satellite-im/Uplink-Mobile)  
-  📱 React Native app for cross-platform communication  
-  🚀 Researched mobile automation strategy and test tooling
+  📱 Flutter Native app for cross-platform communication  
+  🚀 Researched mobile automation strategy and implemented basic E2E tests with Appium
 
 - [`cypress`](https://github.com/Satellite-im/cypress)  
-  🔬 Cypress-based tests focused on regression and auth flows  
-  💡 Built reusable component selectors for cleaner tests
-
+  🔬 Cypress-based tests focused on regression and auth flows for CorePWA app
+  💡 Built extended coverage of end to end tests
+  
 ---
 
 ### 👾 Personal Projects
@@ -76,15 +76,15 @@
   🚀 Practice project on game loops, sprite handling, and keyboard events.
 
 - [`character-generator`](https://github.com/luisecm/character-generator)  
-  🧙 Fantasy character generator built with **Python OOP**.  
-  🎲 Generates randomized characters for RPG-style storytelling.
+  🧙 Fantasy character generator built with **React Native**.  
+  🎲 Generates randomized characters and create basic text interactions with anime style storytelling.
 
 - [`web3-communities`](https://github.com/luisecm/web3-communities)  
   🧪 Full-featured **Playwright** test suite for a decentralized messaging DApp  
-  🔗 Tests smart contract interactions on the **Sepolia Testnet**
+  🔗 POC for testing smart contract interactions on the **Sepolia Testnet**
 
 - [`download-pixieset`](https://github.com/luisecm/download-pixieset)  
-  📷 Script to download protected Pixieset photo galleries  
+  📷 Script to download protected Pixieset photo galleries
   🚀 Automated media scraping with Puppeteer
 
 ---
