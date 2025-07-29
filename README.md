@@ -6,24 +6,9 @@
 
 ---
 
-### 🚀 What I'm Working On
-- Building scalable E2E frameworks for **B2B retail** platforms
-- Contributing to an **open-source Web3 messaging and communities platform**
-- Experimenting with **AI tools** and **Go** for next-gen QA workflows
-
----
-
-### 📚 What I'm Learning
-- Deep-diving into **TensorFlow**, **AI-assisted testing**, and **advanced Playwright features**
-- Exploring **blockchain testing** and **smart contract validation**
-- Getting hands-on with **GoLang** and API fuzzing tools
-
----
-
 ### 🤝 Open to Collaborate On
 - Open-source QA automation projects  
-- Web3 DApps and smart contract testing  
-- AI-based test generation or backend API validation  
+- Contracting QA/SDET roles
 
 ---
 
