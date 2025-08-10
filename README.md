@@ -56,6 +56,10 @@
 
 ### 👾 Personal Projects
 
+- [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler)  
+  🎵 A **React** app that allows you to scrobble tracks into your LastFM profile from any album on your Discogs collection.  
+  🚀 Practice project on full stack development with NodeJS, React, Tailwind and Express. My first CRUD MVP
+
 - [`alieninvasion`](https://github.com/luisecm/alieninvasion)  
   🕹️ A **Python Pygame** arcade shooter.  
   🚀 Practice project on game loops, sprite handling, and keyboard events.
