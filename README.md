@@ -39,19 +39,14 @@ Web3 instant messaging platform. I worked across test architecture, automation s
 ---
 
 ### Personal projects
-A few things I built on my own, mostly to learn something new or scratch an itch:
+A few things I've built on my own recently, mostly to solve something I actually needed:
 
-- [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler) — a React app that scrobbles tracks to your LastFM profile straight from your Discogs collection. My first full-stack CRUD build (Node, React, Tailwind, Express).
-- [`alieninvasion`](https://github.com/luisecm/alieninvasion) — a Python/Pygame arcade shooter, built to get comfortable with game loops, sprites, and input handling.
-- [`character-generator`](https://github.com/luisecm/character-generator) — a fantasy character generator in React Native, with randomized characters and simple anime-style text interactions.
-- [`web3-communities`](https://github.com/luisecm/web3-communities) — a Playwright test suite for a decentralized messaging DApp, including a proof of concept for testing smart contract interactions on Sepolia.
-- [`download-pixieset`](https://github.com/luisecm/download-pixieset) — a small Puppeteer script to download protected Pixieset photo galleries.
+- [`materapp`](https://github.com/luisecm/materapp) — a school ecosystem app: homework, tracking, and announcements for students, parents, and teachers in one place.
+- [`spoti2qobuz`](https://github.com/luisecm/spoti2qobuz) — syncs a Spotify playlist into Qobuz. Built it because no one keeps an up-to-date "New Music Friday"-style playlist there.
+- [`pequeguia`](https://github.com/luisecm/pequeguia) — as a father, I was tired of hunting across different pages for kid-friendly things to do on weekends, so I built one place to find and share them.
+- [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler) — scrobbles plays from your Discogs vinyl collection into LastFM. My first full-stack CRUD build (Node, React, Tailwind, Express).
 
----
-
-### GitHub stats
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisecm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisecm&layout=compact&theme=radical)
+I also have a few client projects in progress I can't share code for yet: a real estate site with 3D tours, a wallet-based loyalty card platform, and a family city-guide app.
 
 ---
 
