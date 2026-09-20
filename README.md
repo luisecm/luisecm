@@ -1,18 +1,19 @@
-### Hi there 👋 I'm Luis Cardeña
+### Hi, I'm Luis Cardeña 👋
 
-🎯 **QA Engineer | SDET | Automation Architect**  
-💡 Passionate about building robust test automation for modern web, mobile, and decentralized apps.  
-🧠 Currently exploring the intersection of **AI**, **Playwright**, and **backend testing**.
+I'm a QA Engineer / SDET — I've spent years building test automation for web, mobile, and decentralized apps. These days I split my time between that and building my own apps independently, usually with an AI coding assistant in the loop from the first prototype to shipping.
 
----
-
-### 🤝 Open to Collaborate On
-- Open-source QA automation projects  
-- Contracting QA/SDET roles
+I like the combination: knowing how to break things well makes me better at building them, and building my own stuff keeps me honest about what "well-tested" actually needs to mean.
 
 ---
 
-### ⚒️ Languages & Tools
+### Open to collaborate on
+- Open-source QA automation projects
+- Contracting QA/SDET work
+- Small independent app builds, AI-assisted or otherwise
+
+---
+
+### Languages & tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
@@ -25,67 +26,35 @@
 
 ---
 
-## 🛰️ Featured Open Source Contributions – [Satellite.im](https://github.com/Satellite-im)
-> Web3 Instant Messaging Platform. Contributed across test architecture, automation strategy, and mobile/web quality workflows.
+## Featured open source work – [Satellite.im](https://github.com/Satellite-im)
+Web3 instant messaging platform. I worked across test architecture, automation strategy, and mobile/web quality.
 
-- [`automated-tests-web`](https://github.com/Satellite-im/automated-tests-web)  
-  🧪 **Playwright-based** E2E automation suite for Uplink Web  
-  🛠️ Runs on CI via GitHub Actions, includes video call and screen share testing
-
-- [`UplinkWeb`](https://github.com/Satellite-im/UplinkWeb)  
-  💬 Frontend for the decentralized messenger  
-  👨‍🔧 Reviewed flows, validated bugs, collaborated adding and improving features
-
-- [`testing-uplink`](https://github.com/Satellite-im/testing-uplink)  
-  🧰 Created automated tests that can run for MacOS and Windows Desktop app   
-  🔍 Covered chat, friend requesting and conversation end to end tests
-
-- [`Core-PWA`](https://github.com/Satellite-im/Core-PWA)  
-  ⚙️ Collaborated on small features for web application   
-  🧪 Helped extend Cypress coverage tests
-
-- [`Uplink-Mobile`](https://github.com/Satellite-im/Uplink-Mobile)  
-  📱 Flutter Native app for cross-platform communication   
-  🚀 Researched mobile automation strategy and implemented basic E2E tests with Appium
-
-- [`cypress`](https://github.com/Satellite-im/cypress)  
-  🔬 Cypress-based tests focused on regression and auth flows for CorePWA app    
-  💡 Built extended coverage of end to end tests
-  
----
-
-### 👾 Personal Projects
-
-- [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler)  
-  🎵 A **React** app that allows you to scrobble tracks into your LastFM profile from any album on your Discogs collection.  
-  🚀 Practice project on full stack development with NodeJS, React, Tailwind and Express. My first CRUD MVP
-
-- [`alieninvasion`](https://github.com/luisecm/alieninvasion)  
-  🕹️ A **Python Pygame** arcade shooter.  
-  🚀 Practice project on game loops, sprite handling, and keyboard events.
-
-- [`character-generator`](https://github.com/luisecm/character-generator)  
-  🧙 Fantasy character generator built with **React Native**.  
-  🎲 Generates randomized characters and create basic text interactions with anime style storytelling.
-
-- [`web3-communities`](https://github.com/luisecm/web3-communities)  
-  🧪 Full-featured **Playwright** test suite for a decentralized messaging DApp  
-  🔗 POC for testing smart contract interactions on the **Sepolia Testnet**
-
-- [`download-pixieset`](https://github.com/luisecm/download-pixieset)  
-  📷 Script to download protected Pixieset photo galleries          
-  🚀 Automated media scraping with Puppeteer
+- [`automated-tests-web`](https://github.com/Satellite-im/automated-tests-web) — Playwright E2E suite for Uplink Web, running on CI via GitHub Actions, including video call and screen share testing.
+- [`UplinkWeb`](https://github.com/Satellite-im/UplinkWeb) — frontend for the decentralized messenger. Reviewed flows, validated bugs, helped add and improve features.
+- [`testing-uplink`](https://github.com/Satellite-im/testing-uplink) — automated tests for the macOS and Windows desktop app, covering chat, friend requests, and full conversation flows.
+- [`Core-PWA`](https://github.com/Satellite-im/Core-PWA) — small feature contributions to the web app, plus extended Cypress coverage.
+- [`Uplink-Mobile`](https://github.com/Satellite-im/Uplink-Mobile) — Flutter native app. Researched mobile automation strategy and built the first E2E tests with Appium.
+- [`cypress`](https://github.com/Satellite-im/cypress) — regression and auth-flow coverage for the Core-PWA app.
 
 ---
 
-### 📈 GitHub Stats
+### Personal projects
+A few things I built on my own, mostly to learn something new or scratch an itch:
+
+- [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler) — a React app that scrobbles tracks to your LastFM profile straight from your Discogs collection. My first full-stack CRUD build (Node, React, Tailwind, Express).
+- [`alieninvasion`](https://github.com/luisecm/alieninvasion) — a Python/Pygame arcade shooter, built to get comfortable with game loops, sprites, and input handling.
+- [`character-generator`](https://github.com/luisecm/character-generator) — a fantasy character generator in React Native, with randomized characters and simple anime-style text interactions.
+- [`web3-communities`](https://github.com/luisecm/web3-communities) — a Playwright test suite for a decentralized messaging DApp, including a proof of concept for testing smart contract interactions on Sepolia.
+- [`download-pixieset`](https://github.com/luisecm/download-pixieset) — a small Puppeteer script to download protected Pixieset photo galleries.
+
+---
+
+### GitHub stats
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisecm&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisecm&layout=compact&theme=radical)
 
 ---
 
-### 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiscardenamaldonado/)  
-- 📫 [Email](mailto:luis.cardena@outlook.com)  
-- 🌎 Based in **Mexico**, open to **remote roles ** with **worldwide companies**
-
+### Let's connect
+- [Email](mailto:luis.cardena@outlook.com)
+- Based in Mexico, open to remote roles with companies worldwide
