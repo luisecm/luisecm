@@ -6,9 +6,9 @@ I like the combination: knowing how to break things well makes me better at buil
 
 ---
 
-### Open to collaborate on
+### Interests
 - Open-source QA automation projects
-- Contracting QA/SDET work
+- Test automation architecture and CI/CD
 - Small independent app builds, AI-assisted or otherwise
 
 ---
@@ -41,7 +41,7 @@ Web3 instant messaging platform. I worked across test architecture, automation s
 ### Personal projects
 A few things I've built on my own recently, mostly to solve something I actually needed:
 
-- [`materapp`](https://github.com/luisecm/materapp) — a school ecosystem app: homework, tracking, and announcements for students, parents, and teachers in one place.
+- `materapp` *(private for now)* — a school ecosystem app: homework, tracking, and announcements for students, parents, and teachers in one place.
 - [`spoti2qobuz`](https://github.com/luisecm/spoti2qobuz) — syncs a Spotify playlist into Qobuz. Built it because no one keeps an up-to-date "New Music Friday"-style playlist there.
 - [`pequeguia`](https://github.com/luisecm/pequeguia) — as a father, I was tired of hunting across different pages for kid-friendly things to do on weekends, so I built one place to find and share them.
 - [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler) — scrobbles plays from your Discogs vinyl collection into LastFM. My first full-stack CRUD build (Node, React, Tailwind, Express).
@@ -51,5 +51,6 @@ I also have a few client projects in progress I can't share code for yet: a real
 ---
 
 ### Let's connect
+- [luisecm.github.io](https://luisecm.github.io) — work, case studies and what I do
 - [Email](mailto:luis.cardena@outlook.com)
-- Based in Mexico, open to remote roles with companies worldwide
+- Based in Mexico, working with distributed teams
