@@ -26,18 +26,6 @@ I like the combination: knowing how to break things well makes me better at buil
 
 ---
 
-## Featured open source work – [Satellite.im](https://github.com/Satellite-im)
-Web3 instant messaging platform. I worked across test architecture, automation strategy, and mobile/web quality.
-
-- [`automated-tests-web`](https://github.com/Satellite-im/automated-tests-web) — Playwright E2E suite for Uplink Web, running on CI via GitHub Actions, including video call and screen share testing.
-- [`UplinkWeb`](https://github.com/Satellite-im/UplinkWeb) — frontend for the decentralized messenger. Reviewed flows, validated bugs, helped add and improve features.
-- [`testing-uplink`](https://github.com/Satellite-im/testing-uplink) — automated tests for the macOS and Windows desktop app, covering chat, friend requests, and full conversation flows.
-- [`Core-PWA`](https://github.com/Satellite-im/Core-PWA) — small feature contributions to the web app, plus extended Cypress coverage.
-- [`Uplink-Mobile`](https://github.com/Satellite-im/Uplink-Mobile) — Flutter native app. Researched mobile automation strategy and built the first E2E tests with Appium.
-- [`cypress`](https://github.com/Satellite-im/cypress) — regression and auth-flow coverage for the Core-PWA app.
-
----
-
 ### Personal projects
 A few things I've built on my own recently, mostly to solve something I actually needed:
 
@@ -46,11 +34,11 @@ A few things I've built on my own recently, mostly to solve something I actually
 - [`pequeguia`](https://github.com/luisecm/pequeguia) — as a father, I was tired of hunting across different pages for kid-friendly things to do on weekends, so I built one place to find and share them.
 - [`LastFM-Discogs Scrobbler`](https://github.com/luisecm/lastfmdiscogsscrobbler) — scrobbles plays from your Discogs vinyl collection into LastFM. My first full-stack CRUD build (Node, React, Tailwind, Express).
 
-I also have a few client projects in progress I can't share code for yet: a real estate site with 3D tours, a wallet-based loyalty card platform, and a family city-guide app.
+A couple more I'm still building in my own time: a property site with immersive 3D tours, and a wallet-based loyalty card platform.
 
 ---
 
 ### Let's connect
-- [luisecm.github.io](https://luisecm.github.io) — work, case studies and what I do
+- [luiscardena.com](https://luiscardena.com) — work, case studies and what I do
 - [Email](mailto:luis.cardena@outlook.com)
 - Based in Mexico, working with distributed teams
